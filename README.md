@@ -1,1 +1,1 @@
-My first readme
+Getting along with the projects
